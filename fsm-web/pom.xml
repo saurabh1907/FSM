@@ -50,7 +50,7 @@
                 <version>1.3</version>
                 <configuration>
                     <workingDirectory>${basedir}/src/main/webapp/resources</workingDirectory>
-                    <installDirectory>${basedir}/src/main/webapp/resources</installDirectory>
+                    <installDirectory>${basedir}/src/main/</installDirectory>
                 </configuration>
                 <executions>
                     <execution>
